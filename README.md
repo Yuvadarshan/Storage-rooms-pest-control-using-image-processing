@@ -29,7 +29,7 @@ cd Storage-rooms-pest-control-using-image-processing
 
 2. Install the required packages
 
-pip install -requirements.txt
+pip install -Requirements.txt
 
 3. Ensure keras_model.h5 and lable.txt files are in the same directory.
 
