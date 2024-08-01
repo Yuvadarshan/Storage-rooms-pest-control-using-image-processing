@@ -7,7 +7,7 @@ import time
 def main():
     def notification(frame,ind):
 
-        phone_number = "+918668038686"
+        phone_number = "+91**********"
         caption = 'pest detected'
  
         img_path="detected_pest.jpg"
